@@ -1,5 +1,5 @@
 # MultiDimens
-###### Multiple dimension files for Mobile and Tablet
+###### Multiple dimensions library for Mobile and Tablet
 
 [![](https://jitpack.io/v/kishansinghpanwar/MultiDimens.svg)](https://jitpack.io/#kishansinghpanwar/MultiDimens)
 
