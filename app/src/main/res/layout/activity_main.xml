@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-
     <View
         android:layout_width="@dimen/_100mdp"
         android:layout_height="@dimen/_100mdp"
@@ -17,11 +16,12 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
+        android:textColor="@color/text_color"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-medium"
-        android:text="Hello World!"
-        android:textSize="@dimen/_16mdp"
+        android:text="@string/thanks_for_using_multidimens"
+        android:textSize="@dimen/_16msp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"

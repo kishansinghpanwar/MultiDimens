@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MultiDimens Example</string>
+    <string name="thanks_for_using_multidimens">Thanks for using MultiDimens !</string>
 </resources>
