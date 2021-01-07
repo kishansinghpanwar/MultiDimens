@@ -1,29 +1,25 @@
-# MultiDimens
-**Multiple dimensions library for Mobile and Tablet**
+# MultiDimens [![](https://jitpack.io/v/kishansinghpanwar/MultiDimens.svg)](https://jitpack.io/#kishansinghpanwar/MultiDimens)
 
-[![](https://jitpack.io/v/kishansinghpanwar/MultiDimens.svg)](https://jitpack.io/#kishansinghpanwar/MultiDimens)
+## Multiple dimensions library for Mobile and Tablet
 
-
-To get this Library in your project :
-
-Step 1. Add the JitPack repository to your build file
- 
-
-     allprojects {
-    		repositories {
-    			...
-    			maven { url 'https://jitpack.io' }
-    		}
-    	}
-
+ **To add this Library in your project :**
+ - Step 1. Add the JitPack repository to your build file
+    
+    
+       allprojects {
+       		repositories {
+       			...
+       			maven { url 'https://jitpack.io' }
+       		}
+       	}
    
-  Step 2. Add the dependency
+   
+ - Step 2. Add the dependency
+   
+         dependencies {
+       	        implementation 'com.github.kishansinghpanwar:MultiDimens:v1.0.0'
+       	}
 
-      dependencies {
-    	        implementation 'com.github.kishansinghpanwar:MultiDimens:v1.0.0'
-    	}
-
-  
 **Basic Usage :**
 |Type| Values | Example|
 |--|--|--|
