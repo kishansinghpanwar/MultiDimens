@@ -1,5 +1,5 @@
 # MultiDimens [![](https://jitpack.io/v/kishansinghpanwar/MultiDimens.svg)](https://jitpack.io/#kishansinghpanwar/MultiDimens)
-**Multiple dimensions library for Mobile and Tablet**
+**Multiple dimensions library for Android Mobile and Tablet**
 
  **To add this Library in your project :**
  - Step 1. Add the JitPack repository to your build file
