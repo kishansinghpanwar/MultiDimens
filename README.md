@@ -1,5 +1,5 @@
 # MultiDimens [![](https://jitpack.io/v/kishansinghpanwar/MultiDimens.svg)](https://jitpack.io/#kishansinghpanwar/MultiDimens)
-**Multiple dimensions library for Android Mobile and Tablet**
+Multiple dimensions library for Android Mobile and Tablet to create a responsive screen design in single layout file.
 
 ## Implementation
  **To add this Library in your project :**
